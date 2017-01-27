@@ -2,9 +2,5 @@ Projet Sondage
 ===
 Crée par le college Anne Frank
 ===
-Utilisateurs :
-- ?
-- ?
-- ?
-- ?
-- ?
+Ce projet est sous licence MIT.
+
